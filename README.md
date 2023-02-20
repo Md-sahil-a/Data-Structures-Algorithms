@@ -1,6 +1,5 @@
-# PROBLEMS
-Leet code questions.
 
+**I can accept failure, but I can't accept not trying.**
 
+![image](https://user-images.githubusercontent.com/77974484/220006187-c2f4cedd-a529-4bd3-9d40-54c40aa6a9cf.png)
 
-![leetcode-algotime](https://user-images.githubusercontent.com/77974484/218415085-283748e9-fcc0-46a2-8489-1501dc03f9ab.gif)
