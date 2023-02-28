@@ -19,6 +19,6 @@ var groupAnagrams = function(strs) {
                     obj[sorted[i]].push(strs[i]);
                 }
         }
-    return Object.values(obj);
+    return Object.values(obj).reverse();
     
 };
